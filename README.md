@@ -4,7 +4,7 @@ Beta Release 30 July 2022
 This repository contains my self-collected event data for the Roland Garros 2022 Quarter Final Match between
 Novak Djokovic and Rafael Nadal. 
 
-A writeup of this data collection experience, and a data visual-heavy report of the above match can be read on my blog here, containing figures like this!
+A writeup of this data collection experience, and a data visual-heavy report of the above match can be read on my blog [here](https://glad94.github.io/tennis/2022-07-30-Collecting-Data), containing figures like this!
 
 ![Djokovic_BH](Djokovic_BH.png)
 
